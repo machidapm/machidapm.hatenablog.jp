@@ -1,0 +1,3 @@
+machidapm.hatenablog.jp:
+  local_root: .
+  omit_domain: true
